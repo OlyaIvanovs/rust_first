@@ -6,4 +6,5 @@ members = [
     "variables",
     "functions",
     "branches",
+    "rectangles",
 ]
