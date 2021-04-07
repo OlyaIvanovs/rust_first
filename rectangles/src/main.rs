@@ -32,6 +32,8 @@ fn main() {
     println!("Can rect1 hold rect3? {}", rect2.can_hold(&rect4));
 
     let sq = Rect::square(5);
+
+    let mut s = String::new();
 }
 
 #[derive(Debug)]
