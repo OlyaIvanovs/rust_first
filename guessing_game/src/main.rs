@@ -9,6 +9,10 @@ fn main() {
 
     println!("The secret number is: {}", secret_number);
 
+    let v = vec![1, 2, 3];
+
+    v[99];
+
     loop {
         println!("Please input your guess.");
 

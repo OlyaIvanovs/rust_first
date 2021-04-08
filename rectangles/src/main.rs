@@ -33,7 +33,7 @@ fn main() {
 
     let sq = Rect::square(5);
 
-    let mut s = String::new();
+    let mut es = String::new();
 }
 
 #[derive(Debug)]

@@ -7,5 +7,7 @@ members = [
     "functions",
     "branches",
     "rectangles",
-    "restaurant"
+    "restaurant",
+    "generics",
+    "traits",
 ]
