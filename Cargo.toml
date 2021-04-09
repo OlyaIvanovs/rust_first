@@ -10,4 +10,5 @@ members = [
     "restaurant",
     "generics",
     "traits",
+    "minigrep"
 ]
