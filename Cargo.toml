@@ -12,4 +12,6 @@ members = [
     "traits",
     "minigrep",
     "closures",
+    "smart_pointes",
+    "limit_tracker",
 ]
