@@ -14,5 +14,6 @@ members = [
     "closures",
     "smart_pointes",
     "limit_tracker",
-    "concurrency"
+    "concurrency",
+    "hello"
 ]

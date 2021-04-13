@@ -10,7 +10,7 @@ fn main() {
     println!("The largest char is {}", result);
 }
 
-fn get_largest<T>(list: &[T]) -> &T {
+fn get_largest<T: Copy + PartialOrd>(list: &[T]) -> &T {
     let mut largest = &list[0];
 
     for number in list {
